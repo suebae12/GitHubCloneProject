@@ -1,1 +1,1 @@
-This is the description of my repo
+This is the objective of the merge conflict task.
